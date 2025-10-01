@@ -76,11 +76,58 @@ En este proyecto diseñe una lista de comprobación para verificar todos los ele
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets/img/urban_lunch_informe_detalle.PNG" target="_blank">
-    <img width="435" height="660" alt="Screenshot 2025-07-20 204027" src="https://github.com/user-attachments/assets/042b3d3d-6f79-458f-ad42-651d62c59eb6" />
+    <img width="435" height="660"- alt="Screenshot 2025-07-20 204027" src="https://github.com/user-attachments/assets/042b3d3d-6f79-458f-ad42-651d62c59eb6" />
   </a>  
 </div>
 
 ---
+## 🚕Pruebas en la consola con los logs y la base de datos para una aplicación de taxis.
+Se  averiguan  solicitudes por medio de la consola que han venido de una dirección IP que comienzan con **"233.201"** , se detectan errores y se separan por respuesta  **400 y 500.** 
 
+En este proyecto también trabaje con base de datos con **SQL** para averiguar la cantidad de automóviles, las listas de compañías con menos de 100 automóviles y realice solicitudes para obtener tablas con datos para un periodo específico. 
+
+**Resultados:** 
+- 💻Trabaje con la consola **command prompt**
+- 🔧Utilice comandos para crear carpetas y archivos en la consola 
+- 💾Realice consultas con **SQL**
+- 📊Analice Base de Datos 
+
+**Enlaces:**
+ - [Proyecto](https://docs.google.com/document/d/1TEYE_-TeAkFGmDahZARxprifthEZM0vQ/edit?usp=sharing&ouid=104402107912623627271&rtpof=true&sd=true)
+
+   <img width="421" height="488" alt="Screenshot 2025-08-08 195711" src="https://github.com/user-attachments/assets/626304a4-b2fd-4794-a42e-6719714e40a1" />
+
+---
+## 🛒Automatización de pruebas para la App Urban Grocers
+En este proyecto  automatice pruebas para la  Creación de un kit para un usuario o usuaria. Se realizó mediante una lista de comprobación para el campo **“NAME”**, utilizando valores positivos y negativos. 
+Se incluyeron solicitudes con el token de autenticación **“auth Token”** y una solicitud para crear un kit personal para este usuario o usuaria con el encabezado **“Authorization”**
+
+**Resultados:**
+- 🧪Realice 9 pruebas automatizadas para el campo “Name”
+- 📝Utilice la librería  Request y Pytest para las pruebas
+- 🐍Implemente el lenguaje de programación Python
+
+**Enlaces:**
+- [Repositorio GitHub](https://github.com/tatianag603/qa-project-Urban-Grocers-app-es.git)
+
+  <div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch.PNG" target="_blank">
+    <img width="907" height="543" alt="Screenshot 2025-10-01 193232" src="https://github.com/user-attachments/assets/f0ac502b-191c-4c04-8f5c-0d89a5425074" />
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch_informe.PNG" target="_blank">
+   <img width="1204" height="512" alt="Screenshot 2025-10-01 193224" src="https://github.com/user-attachments/assets/87997049-981c-49ce-85e9-e705fb48c7df" />
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch_informe_detalle.PNG" target="_blank">
+    <img width="1511" height="1027" alt="Screenshot 2025-10-01 193210" src="https://github.com/user-attachments/assets/bf5f7cbd-fe14-4bbd-9b8b-a44e89311254" />
+  </a>  
+</div>
+
+<h1 align="center">🤝 GRACIAS POR SU ATENCIÓN, TIEMPO Y DISPOSICIÓN 🤝</h1>
+
+   
   
 
