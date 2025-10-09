@@ -126,6 +126,35 @@ Se incluyeron solicitudes con el token de autenticación **“auth Token”** y 
   </a>  
 </div>
 
+---
+## 🚕Automatización de pruebas para la App Urban Routes
+En este proyecto  automatice pruebas para la reserva completa de un taxi, validando cada paso con **Selenium y Pytest**, se realizaron pruebas para onfigurar las direcciones, seleccionar la tarifa Comfort, rellenar el número de teléfono, agregar una tarjeta de crédito, escribir un mensaje para el conductor, solicitar manta y pañuelos, pedir 2 helados y validar que aparezca el modal de búsqueda de taxi
+
+**Resultados:**
+- 🧪Realice 8 pruebas automatizadas para todo el flujo de reserva de taxi.
+- 📝Utilice localizadores como XPATH, CSS_SELECTORS, CLASS_NAME Y ID.
+- 🧩Utilice el patron de diseño **Page Object Model (POM)**
+- 🐍Implemente el lenguaje de programación PythonAutomatización de pruebas para la App Urban Routes
+
+**Enlaces:**
+- [Repositorio GitHub](https://github.com/tatianag603/qa-project-Urban-Routes-es.git)
+
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch.PNG" target="_blank">
+    <img width="1724" height="1040" alt="Screenshot 2025-10-09 175722" src="https://github.com/user-attachments/assets/68f64981-0fe5-4c67-a952-f3eff47e2b67" />
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch_informe.PNG" target="_blank">
+   <img width="1465" height="881" alt="Screenshot 2025-10-09 175741" src="https://github.com/user-attachments/assets/f99f6244-f7ca-44ec-a4e9-9ee8be7d6076" />
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch_informe_detalle.PNG" target="_blank">
+    <img width="1405" height="960" alt="Screenshot 2025-10-09 175752" src="https://github.com/user-attachments/assets/af0fccc6-65be-4ffe-b512-41ca43143a63" />
+  </a>  
+</div>
+
 <h1 align="center">🤝 GRACIAS POR SU ATENCIÓN, TIEMPO Y DISPOSICIÓN 🤝</h1>
 
    
