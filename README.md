@@ -4,10 +4,8 @@
   <strong>JUNIOR QA TESTER / QUALITY ASSURANCE </strong>
 </p>
 
-Soy Junior QA Tester en formación en el bootcamp TripleTen, donde aprendo testing manual y automatizado con herramientas como Selenium, Python y Postman.
+Soy QA Tester graduada de TripleTen, enfocada en el aseguramiento de la calidad del software (QA) para aplicaciones web y móviles. Cuento con conocimientos en pruebas manuales (funcionales, regresión y de humo) y bases en automatización usando herramientas como Selenium, Python y Postman. Familiarizada con metodologías ágiles (Scrum), documentación de casos de prueba y reporte de defectos. Persona analítica, detallista y con gran disposición para aprender y crecer profesionalmente en el área de QA.
 
-Vengo de un entorno de atención al cliente, lo que me dio habilidades clave como comunicación, paciencia, resolución de problemas, capacidad de análisis y enfoque en el usuario.
-Me motiva asegurar la calidad del software, resolver problemas y disfruto el trabajo en equipo donde el aprendizaje continuo y mejora personal me ayude a seguir creciendo en el mundo de la tecnología. 
 
   <p align="center">
   📝 <a href="https://www.linkedin.com/in/tatianag603/">LinkedIn</a> |
